@@ -10,7 +10,8 @@ The Calculator is a simple yet powerful web application built using HTML, CSS, a
 - Decimal support: Perform calculations involving decimal numbers for greater accuracy.
 - Keyboard support: Use your keyboard's number keys and operators for quick input and calculation.
 - Responsive design: The calculator is responsive, adapting to different screen sizes and ensuring a consistent experience across devices.
-- ![image](https://github.com/debasish26/Calculator.github.io/assets/73976256/b7f376c6-1146-474c-bf53-f9e8f9aaf1e6)
+- ![image](https://github.com/debasish26/Calculator.github.io/assets/73976256/e26d19e0-e63b-4b60-b929-445f94c764ed)
+
 
 
 ### How to Use
