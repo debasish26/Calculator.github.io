@@ -10,6 +10,8 @@ The Calculator is a simple yet powerful web application built using HTML, CSS, a
 - Decimal support: Perform calculations involving decimal numbers for greater accuracy.
 - Keyboard support: Use your keyboard's number keys and operators for quick input and calculation.
 - Responsive design: The calculator is responsive, adapting to different screen sizes and ensuring a consistent experience across devices.
+- ![image](https://github.com/debasish26/Calculator.github.io/assets/73976256/b7f376c6-1146-474c-bf53-f9e8f9aaf1e6)
+
 
 ### How to Use
 
@@ -23,7 +25,7 @@ The Calculator is a simple yet powerful web application built using HTML, CSS, a
 
 If you want to contribute to the development of the Calculator project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/debasish26/Calculator`
+1. Clone the repository: `git clone https://github.com/debasish26/Calculator.github.io`
 2. Navigate to the project directory: `cd calculator`
 3. Open the project in your favorite code editor.
 4. Make modifications and improvements to the code as desired.
