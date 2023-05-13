@@ -1,0 +1,71 @@
+body{
+    background:white;
+    height: 100vh;
+    width: 100vw;
+    color: rgb(255, 116, 65);
+
+}
+
+.container{
+    position: relative;
+}
+h1{
+    text-align: center;
+    
+}
+
+.table{
+
+    position: absolute;
+    top: 10vh;
+    left: 30vw;
+}
+.text{
+    display: inline-block;
+    border: 1px solid  rgb(255, 116, 65);
+    height: 70px;
+    width: 340px;
+    font-size: 1.5em;
+    background: transparent;
+    color: black;
+
+    cursor:text;
+    border-radius: 19px;
+    transition: all ease 30ms;
+}
+.text:hover{
+    border-radius: 19px;
+    border: 1px solid  rgb(255, 116, 65);
+    outline: 0;
+    background: whitesmoke;
+}
+
+input{
+    margin: 10px 10px;
+    display: inline-block;
+    border: 1px solid  rgb(255, 116, 65);
+    height: 70px;
+    width: 70px;
+    font-size: 1.5em;
+    background: transparent;
+    color: black;
+    cursor: pointer;
+    border-radius: 19px;
+    
+    transition: all ease 300ms;
+}
+
+input:hover{
+    
+    background:  rgb(242, 70, 7);
+    border-radius: 50px;
+    color: black;
+}
+.equal{
+    background:  rgb(255, 116, 65);
+    width: 170px;
+}
+.equal:hover{
+    border-radius: 19px;
+    background:  rgb(248, 77, 14);
+}
